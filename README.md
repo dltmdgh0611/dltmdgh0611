@@ -5,10 +5,9 @@
 blog : https://hoban123.tistory.com/
 <em></em>
 
-
 ##
-![seungho's github stats](https://github-readme-stats.vercel.app/api?username=dltmdgh0611&show_icons=true)
+![Seungho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dltmdgh0611&show_icons=true&theme=dark)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmdgh0611)](https://solved.ac/dltmdgh0611)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmdgh0611)](https://solved.ac/dltmdgh0611)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmdgh0611&layout=Demo&theme=Dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmdgh0611&layout=compact&theme=dark)
