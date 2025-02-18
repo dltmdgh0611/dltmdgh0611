@@ -8,3 +8,7 @@ blog : https://hoban123.tistory.com/
 
 ##
 ![seungho's github stats](https://github-readme-stats.vercel.app/api?username=dltmdgh0611&show_icons=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dltmdgh0611)](https://solved.ac/dltmdgh0611)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee_seung_ho&layout=Demo&theme=Dark)
